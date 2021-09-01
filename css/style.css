@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS document - DT173G Moment 1 created by: Frida Lazzari 2021 */
+
+
+body {
+    background-color: grey;
+    color:white;
+    margin: 2rem;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, sans-serif;
+}
