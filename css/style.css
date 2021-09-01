@@ -5,7 +5,7 @@
 body {
     background-color: rgba(128, 128, 128, 0.393);
     margin: 10%;
-    border: 5px solid rgba(17, 32, 71, 1);
+    border: 5px solid #fff;
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, sans-serif;
 }
 
@@ -28,5 +28,5 @@ li {
 }
 
 picture {
-    margin-left: 2%;
+    margin: 2%;
 }
