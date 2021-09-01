@@ -7,7 +7,6 @@ body {
     margin: 10%;
     border: 5px solid rgba(17, 32, 71, 1);
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, sans-serif;
-
 }
 
 h1, 
@@ -26,4 +25,8 @@ li {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 16px;
     color:rgba(17, 32, 71, 1);
+}
+
+picture {
+    margin-left: 2%;
 }
